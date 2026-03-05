@@ -13,18 +13,19 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Zander E. Willoughby"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Rotary Peace Fellow | Peace & Conflict Researcher | Knowledge-Sharing & Collaboration
+"
     # Site meta description for search engines and social sharing
     description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -32,7 +33,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: 'dark'
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
     # Optional: Override theme pack colors
@@ -74,7 +75,7 @@ hugoblox:
     # Spacing density: 'compact', 'comfortable', or 'spacious'
     spacing: "comfortable"
     # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
+    avatar_shape: rounded                # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
@@ -241,9 +242,9 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006"          # Go time format
-    time_format: "3:04 PM"
-    address_format: en-us
+    date_format: "2 Jan 2006"          # Go time format
+    time_format: "13:04Ä
+    address_format: en-gb
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
