@@ -19,8 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Rotary Peace Fellow | Peace & Conflict Researcher | Knowledge-Sharing & Collaboration
-"
+    tagline: "Rotary Peace Fellow | Peace & Conflict Researcher | Knowledge-Sharing & Collaboration"
     # Site meta description for search engines and social sharing
     description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
@@ -243,7 +242,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   locale:
     date_format: "2 Jan 2006"          # Go time format
-    time_format: "13:04Ä
+    time_format: "15:04"
     address_format: en-gb
 
   # ────────────────────────────────────────────────────────────────────────────
